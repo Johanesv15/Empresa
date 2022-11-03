@@ -1,0 +1,56 @@
+html{
+    scroll-behavior: smooth;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(23, 124, 206)),
+    url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fes%2Fhd-wallpaper-desktop-ayhtm&psig=AOvVaw0iU5jvzwP7q65uiLLcnerb&ust=1667490997645000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCID9wp7uj_sCFQAAAAAdAAAAABAN");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+nav{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+nav a{
+    text-decoration-line:none;
+    padding-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+header, nav, footer, section{
+    background-color: rgb(255, 255, 255);
+    border-style: 1;
+    margin: 20px auto;
+    padding: 10px;
+    width: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+footer{
+    clear: both;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article{
+    background-color: rgb(255, 255, 255);
+    border-style: 1;
+    margin: 10px auto;
+    padding: 20px;
+    width: 45%;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
